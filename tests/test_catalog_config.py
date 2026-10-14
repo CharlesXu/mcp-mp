@@ -17,5 +17,6 @@ class ConfigTests(unittest.TestCase):
                 if client == 'codex': c = tomllib.loads(result)['mcp_servers']['mcp-mp-catalog']
                 else: c = json.loads(result)['mcpServers']['mcp-mp-catalog']
                 self.assertEqual(c['command'], 'uv')
-                self.assertEqual(c['args'][3], str(root / 'plugins/mcp-mp-catalog'))
-                self.assertEqual(c['args'][-1], str(root / 'plugins/mcp-mp-catalog/server.py'))
+                self.assertEqual(Path(c['args'][3]).resolve(), root.resolve() / 'plugins/mcp-mp-catalog')
+                self.assertEqual(Path(c['args'][-1]).resolve(), root.resolve() / 'plugins/mcp-mp-catalog/server.py')
+                self.assertEqual(len(c['args']), 6)
