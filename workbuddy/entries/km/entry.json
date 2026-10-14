@@ -22,7 +22,7 @@
   "availability": "restricted",
   "reason": "本机、内网、非公开或含 URL 身份信息的来源。",
   "verification": {
-    "structure": "pending",
+    "structure": "passed",
     "protocol": "not-tested",
     "business": "not-tested"
   }

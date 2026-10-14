@@ -52,7 +52,7 @@
   "availability": "candidate",
   "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
   "verification": {
-    "structure": "pending",
+    "structure": "passed",
     "protocol": "not-tested",
     "business": "not-tested"
   }

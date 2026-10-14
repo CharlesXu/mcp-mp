@@ -22,7 +22,7 @@
   "availability": "not-mcp",
   "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
   "verification": {
-    "structure": "pending",
+    "structure": "passed",
     "protocol": "not-tested",
     "business": "not-tested"
   }

@@ -27,7 +27,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -60,7 +60,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -103,7 +103,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -136,7 +136,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -169,7 +169,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -198,7 +198,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -241,7 +241,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -270,7 +270,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -299,7 +299,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -342,7 +342,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -371,7 +371,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -404,7 +404,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -437,7 +437,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -466,7 +466,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -499,7 +499,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -532,7 +532,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -565,7 +565,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -594,7 +594,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -627,7 +627,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -656,7 +656,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -699,7 +699,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -732,7 +732,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -761,7 +761,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -794,7 +794,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -827,7 +827,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -856,7 +856,7 @@
     "availability": "restricted",
     "reason": "本机、内网、非公开或含 URL 身份信息的来源。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -899,7 +899,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -950,7 +950,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -983,7 +983,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1016,7 +1016,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1049,7 +1049,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1082,7 +1082,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1111,7 +1111,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1144,7 +1144,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1187,7 +1187,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1216,7 +1216,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1249,7 +1249,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1278,7 +1278,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1311,7 +1311,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1344,7 +1344,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1395,7 +1395,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1424,7 +1424,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1457,7 +1457,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1501,7 +1501,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1530,7 +1530,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1573,7 +1573,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1606,7 +1606,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1635,7 +1635,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1694,7 +1694,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1723,7 +1723,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1756,7 +1756,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1799,7 +1799,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1832,7 +1832,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1865,7 +1865,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1898,7 +1898,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1931,7 +1931,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -1974,7 +1974,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2007,7 +2007,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2036,7 +2036,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2069,7 +2069,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2102,7 +2102,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2135,7 +2135,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2164,7 +2164,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2197,7 +2197,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2230,7 +2230,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2263,7 +2263,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2296,7 +2296,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2339,7 +2339,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2372,7 +2372,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2405,7 +2405,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2480,7 +2480,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2509,7 +2509,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2552,7 +2552,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2585,7 +2585,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2618,7 +2618,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2651,7 +2651,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2710,7 +2710,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2743,7 +2743,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2794,7 +2794,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2823,7 +2823,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2856,7 +2856,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2889,7 +2889,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2932,7 +2932,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -2973,7 +2973,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3002,7 +3002,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3031,7 +3031,7 @@
     "availability": "restricted",
     "reason": "本机、内网、非公开或含 URL 身份信息的来源。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3074,7 +3074,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3107,7 +3107,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3140,7 +3140,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3169,7 +3169,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3212,7 +3212,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3245,7 +3245,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3278,7 +3278,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3311,7 +3311,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3344,7 +3344,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3377,7 +3377,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3410,7 +3410,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3443,7 +3443,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3472,7 +3472,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3501,7 +3501,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3534,7 +3534,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3567,7 +3567,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3600,7 +3600,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3633,7 +3633,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3662,7 +3662,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3691,7 +3691,7 @@
     "availability": "restricted",
     "reason": "本机、内网、非公开或含 URL 身份信息的来源。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3742,7 +3742,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3775,7 +3775,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3808,7 +3808,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3841,7 +3841,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3874,7 +3874,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3907,7 +3907,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3950,7 +3950,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -3979,7 +3979,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4012,7 +4012,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4041,7 +4041,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4070,7 +4070,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4103,7 +4103,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4132,7 +4132,7 @@
     "availability": "restricted",
     "reason": "本机、内网、非公开或含 URL 身份信息的来源。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4165,7 +4165,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4194,7 +4194,7 @@
     "availability": "restricted",
     "reason": "本机、内网、非公开或含 URL 身份信息的来源。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4223,7 +4223,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4266,7 +4266,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4295,7 +4295,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4324,7 +4324,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4357,7 +4357,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4400,7 +4400,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4433,7 +4433,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4466,7 +4466,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4509,7 +4509,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4538,7 +4538,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4571,7 +4571,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4630,7 +4630,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4673,7 +4673,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4702,7 +4702,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4735,7 +4735,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4764,7 +4764,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4793,7 +4793,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4822,7 +4822,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4865,7 +4865,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4908,7 +4908,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4951,7 +4951,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -4980,7 +4980,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5009,7 +5009,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5042,7 +5042,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5085,7 +5085,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5118,7 +5118,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5151,7 +5151,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5184,7 +5184,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5217,7 +5217,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5250,7 +5250,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5283,7 +5283,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5316,7 +5316,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5349,7 +5349,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5378,7 +5378,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5411,7 +5411,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5440,7 +5440,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5469,7 +5469,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5498,7 +5498,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5531,7 +5531,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5574,7 +5574,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5607,7 +5607,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5636,7 +5636,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5669,7 +5669,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5710,7 +5710,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5753,7 +5753,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5796,7 +5796,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5829,7 +5829,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5862,7 +5862,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5905,7 +5905,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5946,7 +5946,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -5979,7 +5979,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6012,7 +6012,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6045,7 +6045,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6088,7 +6088,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6121,7 +6121,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6154,7 +6154,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6187,7 +6187,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6230,7 +6230,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6259,7 +6259,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6302,7 +6302,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6345,7 +6345,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6378,7 +6378,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6411,7 +6411,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6444,7 +6444,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6477,7 +6477,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6506,7 +6506,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6539,7 +6539,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6582,7 +6582,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6611,7 +6611,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6652,7 +6652,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6693,7 +6693,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6726,7 +6726,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6759,7 +6759,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6788,7 +6788,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6831,7 +6831,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6864,7 +6864,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6907,7 +6907,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6940,7 +6940,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -6983,7 +6983,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7026,7 +7026,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7067,7 +7067,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7100,7 +7100,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7129,7 +7129,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7158,7 +7158,7 @@
     "availability": "restricted",
     "reason": "本机、内网、非公开或含 URL 身份信息的来源。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7191,7 +7191,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7220,7 +7220,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7253,7 +7253,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7282,7 +7282,7 @@
     "availability": "restricted",
     "reason": "本机、内网、非公开或含 URL 身份信息的来源。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7315,7 +7315,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7348,7 +7348,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7381,7 +7381,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7414,7 +7414,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7443,7 +7443,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7472,7 +7472,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7505,7 +7505,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7546,7 +7546,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7589,7 +7589,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7622,7 +7622,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7651,7 +7651,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7684,7 +7684,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7717,7 +7717,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7750,7 +7750,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7783,7 +7783,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7812,7 +7812,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7841,7 +7841,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7870,7 +7870,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7903,7 +7903,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7932,7 +7932,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7965,7 +7965,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -7998,7 +7998,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8031,7 +8031,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8060,7 +8060,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8101,7 +8101,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8134,7 +8134,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8163,7 +8163,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8206,7 +8206,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8239,7 +8239,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8272,7 +8272,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8301,7 +8301,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8330,7 +8330,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8359,7 +8359,7 @@
     "availability": "needs-review",
     "reason": "缺少可移植 MCP 配方或明确的传输协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8388,7 +8388,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8417,7 +8417,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8446,7 +8446,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8479,7 +8479,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8523,7 +8523,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8556,7 +8556,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8589,7 +8589,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8622,7 +8622,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8655,7 +8655,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8684,7 +8684,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8713,7 +8713,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8764,7 +8764,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8807,7 +8807,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8840,7 +8840,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8873,7 +8873,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8906,7 +8906,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8939,7 +8939,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -8982,7 +8982,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9015,7 +9015,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9048,7 +9048,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9081,7 +9081,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9114,7 +9114,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9155,7 +9155,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9188,7 +9188,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9221,7 +9221,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9250,7 +9250,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9283,7 +9283,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9334,7 +9334,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9367,7 +9367,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9418,7 +9418,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9451,7 +9451,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9480,7 +9480,7 @@
     "availability": "restricted",
     "reason": "本机、内网、非公开或含 URL 身份信息的来源。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9509,7 +9509,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9538,7 +9538,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9567,7 +9567,7 @@
     "availability": "not-mcp",
     "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }
@@ -9600,7 +9600,7 @@
     "availability": "candidate",
     "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
     "verification": {
-      "structure": "pending",
+      "structure": "passed",
       "protocol": "not-tested",
       "business": "not-tested"
     }

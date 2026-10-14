@@ -22,7 +22,7 @@
   "availability": "needs-review",
   "reason": "缺少可移植 MCP 配方或明确的传输协议。",
   "verification": {
-    "structure": "pending",
+    "structure": "passed",
     "protocol": "not-tested",
     "business": "not-tested"
   }
