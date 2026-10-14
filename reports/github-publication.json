@@ -1,0 +1,26 @@
+{
+  "repository": "https://github.com/CharlesXu/mcp-mp",
+  "visibility": "PUBLIC",
+  "default_branch": "main",
+  "catalogue_readback": "exact-byte-match",
+  "catalogue_count": 278,
+  "client_marketplace_source": "CharlesXu/mcp-mp",
+  "initial_published_commit": "da55349161c56f2b37079cb605300f6d82395e2f",
+  "initial_ci": {
+    "databaseId": 38498622804,
+    "headSha": "da55349161c56f2b37079cb605300f6d82395e2f",
+    "status": "completed",
+    "conclusion": "success",
+    "url": "https://github.com/CharlesXu/mcp-mp/actions/runs/38498622804"
+  },
+  "jobs": [
+    {
+      "name": "validate (3.13)",
+      "conclusion": "success"
+    },
+    {
+      "name": "validate (3.11)",
+      "conclusion": "success"
+    }
+  ]
+}
