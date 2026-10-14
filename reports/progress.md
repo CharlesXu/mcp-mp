@@ -8,3 +8,5 @@ Ruling: All local launch definitions require separate version/command review; no
 Ruling: Use current official SDK 2.3.0 and Client API instead of the plan's v1 ClientSession wording; current documentation establishes Client lifecycle and typed snake_case results.
 Task 2: RED missing build/validate; GREEN: 14 total tests passed; 278 entries and self-contained plugin catalogue generated; publication structure checks passed.
 Task 1 follow-up: scanner caught internal domains in original inventory descriptions. Added failing regression, removed domain text, reimported and verified GREEN before any data commit.
+Task 3: RED missing adapter; GREEN: 20 total tests passed. Codex TOML/header environment mapping, Claude http/sse and Cherry streamableHttp/sse templates parse correctly.
+Ruling: Codex dynamic URL parameters and unresolved stdio placeholders cannot be installed directly; adapter refuses them instead of pretending Codex expands those strings. Cherry placeholders require manual filling before import.
