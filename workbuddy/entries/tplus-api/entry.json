@@ -1,0 +1,33 @@
+{
+  "id": "workbuddy/tplus-api",
+  "slug": "tplus-api",
+  "harness": "workbuddy",
+  "name": "畅捷通T+",
+  "description": "畅捷通 T+Cloud 自然语言操作入口：查询/管理销售订单、采购订单、库存单据、生产工单、财务凭证、报表及基础档案",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://mcphub.chanapp.chanjet.com/151/mcp",
+    "headers": {}
+  },
+  "parameters": [],
+  "auth": {
+    "mode": "unknown",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

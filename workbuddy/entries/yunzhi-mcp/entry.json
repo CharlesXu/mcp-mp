@@ -1,0 +1,51 @@
+{
+  "id": "workbuddy/yunzhi-mcp",
+  "slug": "yunzhi-mcp",
+  "harness": "workbuddy",
+  "name": "云指建站MCP服务",
+  "description": "通过 MCP 服务创建/修改网站页面，管理网站的产品、文章等数据，与 Skill 结合实现从需求到页面的端到端自动交付，大幅简化建站流程",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://mcp.yz168.cc/mcp/",
+    "headers": {
+      "SiteID": "${WB_YUNZHI_MCP_HEADER_SITEID}",
+      "Authorization": "${WB_YUNZHI_MCP_HEADER_AUTHORIZATION}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_YUNZHI_MCP_HEADER_SITEID",
+      "location": "header",
+      "key": "SiteID",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    },
+    {
+      "name": "WB_YUNZHI_MCP_HEADER_AUTHORIZATION",
+      "location": "header",
+      "key": "Authorization",
+      "required": true,
+      "description": "填写完整 Authorization 头值，包含 Bearer 前缀（若服务商要求）。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "workbuddy/datayes-data",
+  "slug": "datayes-data",
+  "harness": "workbuddy",
+  "name": "通联数据",
+  "description": "用自然语言查询金融数据：A股/港股、基金、债券、指数、期货期权、因子、实时行情、宏观、公告与政策法规",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://dataapi-mcp-server.datayes.com/datayes-data/mcp",
+    "headers": {
+      "Authorization": "${WB_DATAYES_DATA_HEADER_AUTHORIZATION}",
+      "Accept": "application/json, text/event-stream"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_DATAYES_DATA_HEADER_AUTHORIZATION",
+      "location": "header",
+      "key": "Authorization",
+      "required": true,
+      "description": "填写完整 Authorization 头值，包含 Bearer 前缀（若服务商要求）。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

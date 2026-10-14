@@ -1,0 +1,33 @@
+{
+  "id": "workbuddy/wk-workbuddy",
+  "slug": "wk-workbuddy",
+  "harness": "workbuddy",
+  "name": "威科先行",
+  "description": "威科先行依托全面、准确、及时更新的法规、案例等法律数据研发的MCP服务，支持语义检索、关键词检索等场景",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://mcp.wkinfo.com.cn/mcp-servers/integrated/",
+    "headers": {}
+  },
+  "parameters": [],
+  "auth": {
+    "mode": "unknown",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "workbuddy/km",
+  "slug": "km",
+  "harness": "workbuddy",
+  "name": "KM 知识管理",
+  "description": "腾讯内网 KM 知识管理平台（受限来源）",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "inventory-only",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": null,
+  "parameters": [],
+  "auth": {
+    "mode": "unknown",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "restricted",
+  "reason": "本机、内网、非公开或含 URL 身份信息的来源。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

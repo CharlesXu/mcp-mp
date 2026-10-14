@@ -1,0 +1,43 @@
+{
+  "id": "workbuddy/gfsecurities",
+  "slug": "gfsecurities",
+  "harness": "workbuddy",
+  "name": "广发证券",
+  "description": "通过广发证券 MCP，完成多维选股、深度研究、智能盯盘三大核心场景的智能投研服务，实现市场热点跟踪、资讯动态解读、标的筛选、投后复盘的智能投资闭",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://mcp-api.gf.com.cn/server/mcp/gfzq/mcp",
+    "headers": {
+      "x-gf-channel": "${WB_GFSECURITIES_HEADER_X_GF_CHANNEL}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_GFSECURITIES_HEADER_X_GF_CHANNEL",
+      "location": "header",
+      "key": "x-gf-channel",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

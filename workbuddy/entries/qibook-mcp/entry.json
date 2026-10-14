@@ -1,0 +1,43 @@
+{
+  "id": "workbuddy/qibook-mcp",
+  "slug": "qibook-mcp",
+  "harness": "workbuddy",
+  "name": "企百科",
+  "description": "查询企业工商登记数据，支持企业模糊搜索、企业基本信息、受益所有人、股东、实际控制人、工商变更、联系方式、主要人员、分支机构、对外投资、年报、上市",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://datamcp.qibook.com/mcp/basic-ent-tools",
+    "headers": {
+      "X-Qibook-Source": "${WB_QIBOOK_MCP_HEADER_X_QIBOOK_SOURCE}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_QIBOOK_MCP_HEADER_X_QIBOOK_SOURCE",
+      "location": "header",
+      "key": "X-Qibook-Source",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "workbuddy/emr-query",
+  "slug": "emr-query",
+  "harness": "workbuddy",
+  "name": "弹性MapReduce",
+  "description": "通过CLI实现弹性 MapReduce 集群、节点、服务、作业、监控、YARN 调度、自动扩缩容、用户与配置等查询",
+  "kind": "本地 CLI (pip)",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "inventory-only",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": null,
+  "parameters": [],
+  "auth": {
+    "mode": "unknown",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "not-mcp",
+  "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

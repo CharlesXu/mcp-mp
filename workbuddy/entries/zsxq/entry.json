@@ -1,0 +1,29 @@
+{
+  "id": "workbuddy/zsxq",
+  "slug": "zsxq",
+  "harness": "workbuddy",
+  "name": "知识星球",
+  "description": "用自然语言管理知识星球：浏览星球内容、发帖评论、搜索主题、回答问题、管理笔记、查看用户信息",
+  "kind": "本地 CLI (npm)",
+  "source_repository": "https://github.com/unnoo/zsxq-skill",
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "inventory-only",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": null,
+  "parameters": [],
+  "auth": {
+    "mode": "unknown",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "not-mcp",
+  "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "workbuddy/dami-external-mcp",
+  "slug": "dami-external-mcp",
+  "harness": "workbuddy",
+  "name": "达秘-TikTok批量建联&达人管理工具",
+  "description": "通过自然语言批量管理 TikTok 达人建联、邀约、私信和店铺/商品/达人查询",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://ai.tikclubs.com/mcp",
+    "headers": {
+      "Authorization": "${WB_DAMI_EXTERNAL_MCP_HEADER_AUTHORIZATION}",
+      "X-Tenant-ID": "${WB_DAMI_EXTERNAL_MCP_HEADER_X_TENANT_ID}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_DAMI_EXTERNAL_MCP_HEADER_AUTHORIZATION",
+      "location": "header",
+      "key": "Authorization",
+      "required": true,
+      "description": "填写完整 Authorization 头值，包含 Bearer 前缀（若服务商要求）。"
+    },
+    {
+      "name": "WB_DAMI_EXTERNAL_MCP_HEADER_X_TENANT_ID",
+      "location": "header",
+      "key": "X-Tenant-ID",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

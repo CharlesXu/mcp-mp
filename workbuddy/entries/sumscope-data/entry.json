@@ -1,0 +1,43 @@
+{
+  "id": "workbuddy/sumscope-data",
+  "slug": "sumscope-data",
+  "harness": "workbuddy",
+  "name": "森浦qeubee金融数据",
+  "description": "查询森浦固定收益市场数据：债券基础信息、一级发行、票据行情、舆情信息、发行人财务报表、宏观指标和交易日历",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://data-api.qeubee.cn/sumscope/common/mcp/stream",
+    "headers": {
+      "X-Access-Key": "${WB_SUMSCOPE_DATA_HEADER_X_ACCESS_KEY}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_SUMSCOPE_DATA_HEADER_X_ACCESS_KEY",
+      "location": "header",
+      "key": "X-Access-Key",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

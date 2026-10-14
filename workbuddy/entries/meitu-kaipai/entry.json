@@ -1,0 +1,29 @@
+{
+  "id": "workbuddy/meitu-kaipai",
+  "slug": "meitu-kaipai",
+  "harness": "workbuddy",
+  "name": "美图 · 开拍",
+  "description": "美图公司出品的AI视频创作工具，支持一键网感剪辑、动态字幕和AI封面，让口播视频更有网感；还提供画质修复、水印消除、字幕消除、音频降噪等功能，轻",
+  "kind": "本地 CLI (npm)",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "inventory-only",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": null,
+  "parameters": [],
+  "auth": {
+    "mode": "unknown",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "not-mcp",
+  "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

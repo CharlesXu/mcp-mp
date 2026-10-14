@@ -1,0 +1,43 @@
+{
+  "id": "workbuddy/fenbeitong",
+  "slug": "fenbeitong",
+  "harness": "workbuddy",
+  "name": "分贝通",
+  "description": "用自然语言查看和切换分贝通账号与企业，查询和管理企业差旅、消费规则、发票与报销，分析消费洞察、合规风险和降本机会，并获取客服支持",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://mcp.fenbeitong.com/mcp/source/workbuddy",
+    "headers": {
+      "X-FBT-Channel": "${WB_FENBEITONG_HEADER_X_FBT_CHANNEL}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_FENBEITONG_HEADER_X_FBT_CHANNEL",
+      "location": "header",
+      "key": "X-FBT-Channel",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

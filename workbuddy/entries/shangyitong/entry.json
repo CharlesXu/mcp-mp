@@ -1,0 +1,43 @@
+{
+  "id": "workbuddy/shangyitong",
+  "slug": "shangyitong",
+  "harness": "workbuddy",
+  "name": "VZOOM商易通-企业信息查询",
+  "description": "查询企业工商信息、企业经营数据、财务指标、交易上下游、产业链画像，支持财务尽调、寻找客户、供应商筛查与产业链分析，并可做供应链图谱、上下游分析、",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://shangyitong.vzoom.com/nsyt-server/api/mcp/data",
+    "headers": {
+      "Authorization": "${WB_SHANGYITONG_HEADER_AUTHORIZATION}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_SHANGYITONG_HEADER_AUTHORIZATION",
+      "location": "header",
+      "key": "Authorization",
+      "required": true,
+      "description": "填写完整 Authorization 头值，包含 Bearer 前缀（若服务商要求）。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

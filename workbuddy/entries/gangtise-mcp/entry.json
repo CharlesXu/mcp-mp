@@ -1,0 +1,51 @@
+{
+  "id": "workbuddy/gangtise-mcp",
+  "slug": "gangtise-mcp",
+  "harness": "workbuddy",
+  "name": "Gangtise投研",
+  "description": "Gangtise MCP汇聚机构级观点，研报，日程等另类数据，提供投研AI Agent预生成数据及全球行情/财务/估值/宏观行业等结构化数据",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://openapi.gangtise.com/application/open-mcp/",
+    "headers": {
+      "accessKey": "${WB_GANGTISE_MCP_HEADER_ACCESSKEY}",
+      "secretKey": "${WB_GANGTISE_MCP_HEADER_SECRETKEY}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_GANGTISE_MCP_HEADER_ACCESSKEY",
+      "location": "header",
+      "key": "accessKey",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    },
+    {
+      "name": "WB_GANGTISE_MCP_HEADER_SECRETKEY",
+      "location": "header",
+      "key": "secretKey",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "workbuddy/xhcj-mcp-announcements-news-policy",
+  "slug": "xhcj-mcp-announcements-news-policy",
+  "harness": "workbuddy",
+  "name": "新华财经资讯MCP",
+  "description": "公告、新闻、政策数据，包含股票资讯、板块资讯、热点新闻、资讯搜索、大宗快讯、外汇快讯、股票快讯、公告关键词检索、政策向量检索等",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://mcp.cnfic.com.cn/mcp-servers/xhcj-mcp-announcements-news-policy",
+    "headers": {
+      "Authorization": "${WB_XHCJ_MCP_ANNOUNCEMENTS_NEWS_POLICY_HEADER_AUTHORIZATION}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_XHCJ_MCP_ANNOUNCEMENTS_NEWS_POLICY_HEADER_AUTHORIZATION",
+      "location": "header",
+      "key": "Authorization",
+      "required": true,
+      "description": "填写完整 Authorization 头值，包含 Bearer 前缀（若服务商要求）。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

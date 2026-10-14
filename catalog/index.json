@@ -1,0 +1,1674 @@
+{
+  "schema_version": 1,
+  "count": 278,
+  "entries": [
+    {
+      "id": "workbuddy/24haowan",
+      "name": "24好玩 互动营销资料库",
+      "availability": "candidate",
+      "path": "workbuddy/entries/24haowan/entry.json"
+    },
+    {
+      "id": "workbuddy/24haowan-space",
+      "name": "24好玩 · 方案空间",
+      "availability": "candidate",
+      "path": "workbuddy/entries/24haowan-space/entry.json"
+    },
+    {
+      "id": "workbuddy/3chat-customer-growth",
+      "name": "3Chat 私域客户运营",
+      "availability": "candidate",
+      "path": "workbuddy/entries/3chat-customer-growth/entry.json"
+    },
+    {
+      "id": "workbuddy/51shebao-hr-tools",
+      "name": "51社保",
+      "availability": "candidate",
+      "path": "workbuddy/entries/51shebao-hr-tools/entry.json"
+    },
+    {
+      "id": "workbuddy/58pic-qiantu-ai",
+      "name": "千图 AI",
+      "availability": "candidate",
+      "path": "workbuddy/entries/58pic-qiantu-ai/entry.json"
+    },
+    {
+      "id": "workbuddy/77ircloud",
+      "name": "铱云AI供应链",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/77ircloud/entry.json"
+    },
+    {
+      "id": "workbuddy/agent-earth",
+      "name": "AgentEarth 金融电商社媒工具集",
+      "availability": "candidate",
+      "path": "workbuddy/entries/agent-earth/entry.json"
+    },
+    {
+      "id": "workbuddy/agent-mail",
+      "name": "智能体邮箱",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/agent-mail/entry.json"
+    },
+    {
+      "id": "workbuddy/agentkey",
+      "name": "AgentKey",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/agentkey/entry.json"
+    },
+    {
+      "id": "workbuddy/aholo-lux3d",
+      "name": "Aholo Lux3D",
+      "availability": "candidate",
+      "path": "workbuddy/entries/aholo-lux3d/entry.json"
+    },
+    {
+      "id": "workbuddy/ai-hive",
+      "name": "AI-HIVE",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/ai-hive/entry.json"
+    },
+    {
+      "id": "workbuddy/aiclass-teaching",
+      "name": "腾讯未来教室",
+      "availability": "candidate",
+      "path": "workbuddy/entries/aiclass-teaching/entry.json"
+    },
+    {
+      "id": "workbuddy/aidd-saas",
+      "name": "AI尽调助手",
+      "availability": "candidate",
+      "path": "workbuddy/entries/aidd-saas/entry.json"
+    },
+    {
+      "id": "workbuddy/ailit",
+      "name": "智慧记AI进销存",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/ailit/entry.json"
+    },
+    {
+      "id": "workbuddy/aimoderator",
+      "name": "思研·AI调研平台",
+      "availability": "candidate",
+      "path": "workbuddy/entries/aimoderator/entry.json"
+    },
+    {
+      "id": "workbuddy/alphapai-lite-mcp",
+      "name": "Alpha派投研助手",
+      "availability": "candidate",
+      "path": "workbuddy/entries/alphapai-lite-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/archive-hospital-mcp",
+      "name": "腾讯健康全周期管理平台",
+      "availability": "candidate",
+      "path": "workbuddy/entries/archive-hospital-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/awesun",
+      "name": "向日葵远程控制",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/awesun/entry.json"
+    },
+    {
+      "id": "workbuddy/baidu-netdisk",
+      "name": "百度网盘",
+      "availability": "candidate",
+      "path": "workbuddy/entries/baidu-netdisk/entry.json"
+    },
+    {
+      "id": "workbuddy/baijimu-enterprise-ai",
+      "name": "百积木",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/baijimu-enterprise-ai/entry.json"
+    },
+    {
+      "id": "workbuddy/baixiao-mcp",
+      "name": "百晓智能",
+      "availability": "candidate",
+      "path": "workbuddy/entries/baixiao-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/bazhuayu",
+      "name": "八爪鱼",
+      "availability": "candidate",
+      "path": "workbuddy/entries/bazhuayu/entry.json"
+    },
+    {
+      "id": "workbuddy/beisen-cli",
+      "name": "北森AI · HR专家",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/beisen-cli/entry.json"
+    },
+    {
+      "id": "workbuddy/biobuddy",
+      "name": "BioBuddy 生物医药研究助手",
+      "availability": "candidate",
+      "path": "workbuddy/entries/biobuddy/entry.json"
+    },
+    {
+      "id": "workbuddy/bizmuse-ai-music-video",
+      "name": "BizMuse AI 音乐视频",
+      "availability": "candidate",
+      "path": "workbuddy/entries/bizmuse-ai-music-video/entry.json"
+    },
+    {
+      "id": "workbuddy/bugly",
+      "name": "Bugly",
+      "availability": "restricted",
+      "path": "workbuddy/entries/bugly/entry.json"
+    },
+    {
+      "id": "workbuddy/bugly-token",
+      "name": "Bugly 质量概览",
+      "availability": "candidate",
+      "path": "workbuddy/entries/bugly-token/entry.json"
+    },
+    {
+      "id": "workbuddy/caihui-mcp",
+      "name": "财汇金融与风险数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/caihui-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/camscanner-mcp",
+      "name": "扫描全能王",
+      "availability": "candidate",
+      "path": "workbuddy/entries/camscanner-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/candao-age",
+      "name": "餐道.数智经营",
+      "availability": "candidate",
+      "path": "workbuddy/entries/candao-age/entry.json"
+    },
+    {
+      "id": "workbuddy/canva",
+      "name": "Canva可画",
+      "availability": "candidate",
+      "path": "workbuddy/entries/canva/entry.json"
+    },
+    {
+      "id": "workbuddy/charge-order-query",
+      "name": "订单门店查询",
+      "availability": "candidate",
+      "path": "workbuddy/entries/charge-order-query/entry.json"
+    },
+    {
+      "id": "workbuddy/chuangkit",
+      "name": "创客贴 AI 创作",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/chuangkit/entry.json"
+    },
+    {
+      "id": "workbuddy/chuhaijiang",
+      "name": "出海匠",
+      "availability": "candidate",
+      "path": "workbuddy/entries/chuhaijiang/entry.json"
+    },
+    {
+      "id": "workbuddy/cisp-mcp",
+      "name": "水滴征信",
+      "availability": "candidate",
+      "path": "workbuddy/entries/cisp-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/cloudbase",
+      "name": "腾讯云 CloudBase",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/cloudbase/entry.json"
+    },
+    {
+      "id": "workbuddy/cloudmall-operations",
+      "name": "云MALL运营",
+      "availability": "candidate",
+      "path": "workbuddy/entries/cloudmall-operations/entry.json"
+    },
+    {
+      "id": "workbuddy/cnb-api",
+      "name": "CNB",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/cnb-api/entry.json"
+    },
+    {
+      "id": "workbuddy/connector-workshop",
+      "name": "连接器工坊",
+      "availability": "candidate",
+      "path": "workbuddy/entries/connector-workshop/entry.json"
+    },
+    {
+      "id": "workbuddy/coros",
+      "name": "COROS",
+      "availability": "candidate",
+      "path": "workbuddy/entries/coros/entry.json"
+    },
+    {
+      "id": "workbuddy/dami-external-mcp",
+      "name": "达秘-TikTok批量建联&达人管理工具",
+      "availability": "candidate",
+      "path": "workbuddy/entries/dami-external-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/databuddy",
+      "name": "DataBuddy",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/databuddy/entry.json"
+    },
+    {
+      "id": "workbuddy/datahub",
+      "name": "DataHub",
+      "availability": "candidate",
+      "path": "workbuddy/entries/datahub/entry.json"
+    },
+    {
+      "id": "workbuddy/datayes-data",
+      "name": "通联数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/datayes-data/entry.json"
+    },
+    {
+      "id": "workbuddy/dcs-cloud",
+      "name": "dcs-cloud",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/dcs-cloud/entry.json"
+    },
+    {
+      "id": "workbuddy/deeplink",
+      "name": "克而瑞地产数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/deeplink/entry.json"
+    },
+    {
+      "id": "workbuddy/deli-mcp",
+      "name": "得理法律数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/deli-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/designkit-buddy-cli",
+      "name": "美图设计室 AI设计 CLI",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/designkit-buddy-cli/entry.json"
+    },
+    {
+      "id": "workbuddy/dingdanbao",
+      "name": "订单豹",
+      "availability": "candidate",
+      "path": "workbuddy/entries/dingdanbao/entry.json"
+    },
+    {
+      "id": "workbuddy/dingtalk",
+      "name": "钉钉",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/dingtalk/entry.json"
+    },
+    {
+      "id": "workbuddy/dknowc-mcp",
+      "name": "深知可信工作台",
+      "availability": "candidate",
+      "path": "workbuddy/entries/dknowc-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/dnb-global-data",
+      "name": "邓白氏查全球",
+      "availability": "candidate",
+      "path": "workbuddy/entries/dnb-global-data/entry.json"
+    },
+    {
+      "id": "workbuddy/dnb-longyicha-workbuddy",
+      "name": "龙易查",
+      "availability": "candidate",
+      "path": "workbuddy/entries/dnb-longyicha-workbuddy/entry.json"
+    },
+    {
+      "id": "workbuddy/dramabuddy",
+      "name": "阅文漫剧助手",
+      "availability": "candidate",
+      "path": "workbuddy/entries/dramabuddy/entry.json"
+    },
+    {
+      "id": "workbuddy/duoguan-fengchao",
+      "name": "夺冠蜂巢",
+      "availability": "candidate",
+      "path": "workbuddy/entries/duoguan-fengchao/entry.json"
+    },
+    {
+      "id": "workbuddy/dzh-mcp",
+      "name": "大智慧MCP",
+      "availability": "candidate",
+      "path": "workbuddy/entries/dzh-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/easymofang",
+      "name": "易智魔方",
+      "availability": "candidate",
+      "path": "workbuddy/entries/easymofang/entry.json"
+    },
+    {
+      "id": "workbuddy/eccang-reconcile",
+      "name": "易仓跨境对账",
+      "availability": "candidate",
+      "path": "workbuddy/entries/eccang-reconcile/entry.json"
+    },
+    {
+      "id": "workbuddy/edgeone-pages",
+      "name": "EdgeOne Makers",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/edgeone-pages/entry.json"
+    },
+    {
+      "id": "workbuddy/edu-next",
+      "name": "Edu Next",
+      "availability": "candidate",
+      "path": "workbuddy/entries/edu-next/entry.json"
+    },
+    {
+      "id": "workbuddy/efunds",
+      "name": "易方达基金MCP服务",
+      "availability": "candidate",
+      "path": "workbuddy/entries/efunds/entry.json"
+    },
+    {
+      "id": "workbuddy/emes-ai",
+      "name": "eMES AI 助手",
+      "availability": "candidate",
+      "path": "workbuddy/entries/emes-ai/entry.json"
+    },
+    {
+      "id": "workbuddy/emr-query",
+      "name": "弹性MapReduce",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/emr-query/entry.json"
+    },
+    {
+      "id": "workbuddy/es",
+      "name": "腾讯云 Elasticsearch Service",
+      "availability": "candidate",
+      "path": "workbuddy/entries/es/entry.json"
+    },
+    {
+      "id": "workbuddy/ezjoin-meeting",
+      "name": "EzyJoin智慧会议",
+      "availability": "candidate",
+      "path": "workbuddy/entries/ezjoin-meeting/entry.json"
+    },
+    {
+      "id": "workbuddy/ezr-crm",
+      "name": "EZR 全域CRM",
+      "availability": "candidate",
+      "path": "workbuddy/entries/ezr-crm/entry.json"
+    },
+    {
+      "id": "workbuddy/fadada-richee",
+      "name": "法大大睿契",
+      "availability": "candidate",
+      "path": "workbuddy/entries/fadada-richee/entry.json"
+    },
+    {
+      "id": "workbuddy/fanruan-growth-advisor",
+      "name": "帆软增长谋士",
+      "availability": "candidate",
+      "path": "workbuddy/entries/fanruan-growth-advisor/entry.json"
+    },
+    {
+      "id": "workbuddy/fastmoss",
+      "name": "FastMoss",
+      "availability": "candidate",
+      "path": "workbuddy/entries/fastmoss/entry.json"
+    },
+    {
+      "id": "workbuddy/fazhi-law",
+      "name": "同花顺法律AI助手",
+      "availability": "candidate",
+      "path": "workbuddy/entries/fazhi-law/entry.json"
+    },
+    {
+      "id": "workbuddy/fbs-connector",
+      "name": "福帮手",
+      "availability": "candidate",
+      "path": "workbuddy/entries/fbs-connector/entry.json"
+    },
+    {
+      "id": "workbuddy/feishu",
+      "name": "飞书",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/feishu/entry.json"
+    },
+    {
+      "id": "workbuddy/fenbeitong",
+      "name": "分贝通",
+      "availability": "candidate",
+      "path": "workbuddy/entries/fenbeitong/entry.json"
+    },
+    {
+      "id": "workbuddy/fenbi-baokao-decision",
+      "name": "粉笔",
+      "availability": "candidate",
+      "path": "workbuddy/entries/fenbi-baokao-decision/entry.json"
+    },
+    {
+      "id": "workbuddy/finenter",
+      "name": "进门投研",
+      "availability": "candidate",
+      "path": "workbuddy/entries/finenter/entry.json"
+    },
+    {
+      "id": "workbuddy/flova",
+      "name": "Flova",
+      "availability": "candidate",
+      "path": "workbuddy/entries/flova/entry.json"
+    },
+    {
+      "id": "workbuddy/fuma-ai-callout",
+      "name": "福马AI外呼任务",
+      "availability": "candidate",
+      "path": "workbuddy/entries/fuma-ai-callout/entry.json"
+    },
+    {
+      "id": "workbuddy/fyopen-lawsearch",
+      "name": "法研·法律法规检索",
+      "availability": "candidate",
+      "path": "workbuddy/entries/fyopen-lawsearch/entry.json"
+    },
+    {
+      "id": "workbuddy/gangtise-mcp",
+      "name": "Gangtise投研",
+      "availability": "candidate",
+      "path": "workbuddy/entries/gangtise-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/gaoding",
+      "name": "稿定AI",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/gaoding/entry.json"
+    },
+    {
+      "id": "workbuddy/gaodun-job",
+      "name": "高顿•实习就业助手",
+      "availability": "candidate",
+      "path": "workbuddy/entries/gaodun-job/entry.json"
+    },
+    {
+      "id": "workbuddy/getnote",
+      "name": "得到大脑（原 Get 笔记）",
+      "availability": "candidate",
+      "path": "workbuddy/entries/getnote/entry.json"
+    },
+    {
+      "id": "workbuddy/gfsecurities",
+      "name": "广发证券",
+      "availability": "candidate",
+      "path": "workbuddy/entries/gfsecurities/entry.json"
+    },
+    {
+      "id": "workbuddy/gildata",
+      "name": "恒生聚源 MCP",
+      "availability": "candidate",
+      "path": "workbuddy/entries/gildata/entry.json"
+    },
+    {
+      "id": "workbuddy/github",
+      "name": "GitHub",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/github/entry.json"
+    },
+    {
+      "id": "workbuddy/gongfeng-woa",
+      "name": "工蜂",
+      "availability": "restricted",
+      "path": "workbuddy/entries/gongfeng-woa/entry.json"
+    },
+    {
+      "id": "workbuddy/gongxie-erp",
+      "name": "共鞋ERP",
+      "availability": "candidate",
+      "path": "workbuddy/entries/gongxie-erp/entry.json"
+    },
+    {
+      "id": "workbuddy/gongyi-open-mcp",
+      "name": "腾讯公益机构服务平台",
+      "availability": "candidate",
+      "path": "workbuddy/entries/gongyi-open-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/gt-generate-sql-data",
+      "name": "设备云维保",
+      "availability": "candidate",
+      "path": "workbuddy/entries/gt-generate-sql-data/entry.json"
+    },
+    {
+      "id": "workbuddy/guansd",
+      "name": "观思动-AI开发部署企业应用",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/guansd/entry.json"
+    },
+    {
+      "id": "workbuddy/h3c-cloudnet",
+      "name": "新华三Cloudnet灵犀AI助手",
+      "availability": "candidate",
+      "path": "workbuddy/entries/h3c-cloudnet/entry.json"
+    },
+    {
+      "id": "workbuddy/h3yun-connector",
+      "name": "氚云",
+      "availability": "candidate",
+      "path": "workbuddy/entries/h3yun-connector/entry.json"
+    },
+    {
+      "id": "workbuddy/haier-assistant",
+      "name": "海尔智能体",
+      "availability": "candidate",
+      "path": "workbuddy/entries/haier-assistant/entry.json"
+    },
+    {
+      "id": "workbuddy/hanyi-fonts",
+      "name": "汉仪字库",
+      "availability": "candidate",
+      "path": "workbuddy/entries/hanyi-fonts/entry.json"
+    },
+    {
+      "id": "workbuddy/hefei-city-alerts",
+      "name": "合肥便民通告",
+      "availability": "candidate",
+      "path": "workbuddy/entries/hefei-city-alerts/entry.json"
+    },
+    {
+      "id": "workbuddy/hose-ai-assistant",
+      "name": "合思商旅",
+      "availability": "candidate",
+      "path": "workbuddy/entries/hose-ai-assistant/entry.json"
+    },
+    {
+      "id": "workbuddy/huita-ims",
+      "name": "慧獭进销存",
+      "availability": "candidate",
+      "path": "workbuddy/entries/huita-ims/entry.json"
+    },
+    {
+      "id": "workbuddy/huize-insurance-product-recommendation",
+      "name": "慧择保险产品推荐",
+      "availability": "candidate",
+      "path": "workbuddy/entries/huize-insurance-product-recommendation/entry.json"
+    },
+    {
+      "id": "workbuddy/ifind-mcp",
+      "name": "同花顺iFinD金融数据查询",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/ifind-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/ihr-cli",
+      "name": "i人事AI·HR专家",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/ihr-cli/entry.json"
+    },
+    {
+      "id": "workbuddy/ima-mcp",
+      "name": "ima",
+      "availability": "candidate",
+      "path": "workbuddy/entries/ima-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/infimind-ecommerce-content",
+      "name": "电商内容专家",
+      "availability": "candidate",
+      "path": "workbuddy/entries/infimind-ecommerce-content/entry.json"
+    },
+    {
+      "id": "workbuddy/intco-ai-platform",
+      "name": "英科AI中台",
+      "availability": "candidate",
+      "path": "workbuddy/entries/intco-ai-platform/entry.json"
+    },
+    {
+      "id": "workbuddy/investoday-finance-data",
+      "name": "今日投资金融数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/investoday-finance-data/entry.json"
+    },
+    {
+      "id": "workbuddy/ioa",
+      "name": "零信任安全 iOA",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/ioa/entry.json"
+    },
+    {
+      "id": "workbuddy/iwiki-woa",
+      "name": "iWiki",
+      "availability": "restricted",
+      "path": "workbuddy/entries/iwiki-woa/entry.json"
+    },
+    {
+      "id": "workbuddy/iyiou-connector",
+      "name": "亿欧数据MCP",
+      "availability": "candidate",
+      "path": "workbuddy/entries/iyiou-connector/entry.json"
+    },
+    {
+      "id": "workbuddy/jiandaoyun",
+      "name": "简道云",
+      "availability": "candidate",
+      "path": "workbuddy/entries/jiandaoyun/entry.json"
+    },
+    {
+      "id": "workbuddy/jinshouzhi",
+      "name": "金手指·AI广告投放",
+      "availability": "candidate",
+      "path": "workbuddy/entries/jinshouzhi/entry.json"
+    },
+    {
+      "id": "workbuddy/jinshuju",
+      "name": "金数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/jinshuju/entry.json"
+    },
+    {
+      "id": "workbuddy/jiucuodashi",
+      "name": "纠错大师",
+      "availability": "candidate",
+      "path": "workbuddy/entries/jiucuodashi/entry.json"
+    },
+    {
+      "id": "workbuddy/jiushuyun",
+      "name": "九数云BI",
+      "availability": "candidate",
+      "path": "workbuddy/entries/jiushuyun/entry.json"
+    },
+    {
+      "id": "workbuddy/joyread-english",
+      "name": "JoyRead 双语绘本",
+      "availability": "candidate",
+      "path": "workbuddy/entries/joyread-english/entry.json"
+    },
+    {
+      "id": "workbuddy/jufa-mcp-server",
+      "name": "聚法-法律数据智能服务",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/jufa-mcp-server/entry.json"
+    },
+    {
+      "id": "workbuddy/jumper-kpi",
+      "name": "天使医生",
+      "availability": "candidate",
+      "path": "workbuddy/entries/jumper-kpi/entry.json"
+    },
+    {
+      "id": "workbuddy/kdocs",
+      "name": "金山文档|WPS云文档",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/kdocs/entry.json"
+    },
+    {
+      "id": "workbuddy/kiwi-sourcing",
+      "name": "Kiwi 采购询价",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/kiwi-sourcing/entry.json"
+    },
+    {
+      "id": "workbuddy/kling-ai-plugin",
+      "name": "Kling AI",
+      "availability": "candidate",
+      "path": "workbuddy/entries/kling-ai-plugin/entry.json"
+    },
+    {
+      "id": "workbuddy/km",
+      "name": "KM 知识管理",
+      "availability": "restricted",
+      "path": "workbuddy/entries/km/entry.json"
+    },
+    {
+      "id": "workbuddy/kuaicha-search",
+      "name": "同花顺快查企业数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/kuaicha-search/entry.json"
+    },
+    {
+      "id": "workbuddy/kuka-service",
+      "name": "KUKA库卡专家",
+      "availability": "restricted",
+      "path": "workbuddy/entries/kuka-service/entry.json"
+    },
+    {
+      "id": "workbuddy/laiye-adp",
+      "name": "laiye-adp",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/laiye-adp/entry.json"
+    },
+    {
+      "id": "workbuddy/lemon-agi",
+      "name": "乐檬零售",
+      "availability": "candidate",
+      "path": "workbuddy/entries/lemon-agi/entry.json"
+    },
+    {
+      "id": "workbuddy/lemonclaw",
+      "name": "LemonClaw",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/lemonclaw/entry.json"
+    },
+    {
+      "id": "workbuddy/lexiang",
+      "name": "乐享知识库",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/lexiang/entry.json"
+    },
+    {
+      "id": "workbuddy/liesun",
+      "name": "猎隼AI智聘",
+      "availability": "candidate",
+      "path": "workbuddy/entries/liesun/entry.json"
+    },
+    {
+      "id": "workbuddy/lingxing-mcp",
+      "name": "领星ERP",
+      "availability": "candidate",
+      "path": "workbuddy/entries/lingxing-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/lingyi-mcp",
+      "name": "零一运营",
+      "availability": "candidate",
+      "path": "workbuddy/entries/lingyi-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/linkfox",
+      "name": "LinkFox",
+      "availability": "candidate",
+      "path": "workbuddy/entries/linkfox/entry.json"
+    },
+    {
+      "id": "workbuddy/listinggood",
+      "name": "ListingGood AI 推荐引擎",
+      "availability": "candidate",
+      "path": "workbuddy/entries/listinggood/entry.json"
+    },
+    {
+      "id": "workbuddy/lovrabet-cli",
+      "name": "Lovrabet CLI",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/lovrabet-cli/entry.json"
+    },
+    {
+      "id": "workbuddy/lxcloud",
+      "name": "励销CRM",
+      "availability": "candidate",
+      "path": "workbuddy/entries/lxcloud/entry.json"
+    },
+    {
+      "id": "workbuddy/magic-agent-token",
+      "name": "腾讯企点营销云",
+      "availability": "candidate",
+      "path": "workbuddy/entries/magic-agent-token/entry.json"
+    },
+    {
+      "id": "workbuddy/masocloud-barcode-generator",
+      "name": "条码生成器",
+      "availability": "candidate",
+      "path": "workbuddy/entries/masocloud-barcode-generator/entry.json"
+    },
+    {
+      "id": "workbuddy/mastergo-vibe-mcp",
+      "name": "MasterGo 莫高设计",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/mastergo-vibe-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/medgroup-drgdip-toolkit",
+      "name": "DRG/DIP 工具包（MedGroup）",
+      "availability": "candidate",
+      "path": "workbuddy/entries/medgroup-drgdip-toolkit/entry.json"
+    },
+    {
+      "id": "workbuddy/meitu-ai",
+      "name": "MeituHub AI影像创作",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/meitu-ai/entry.json"
+    },
+    {
+      "id": "workbuddy/meitu-kaipai",
+      "name": "美图 · 开拍",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/meitu-kaipai/entry.json"
+    },
+    {
+      "id": "workbuddy/meituan-for-business",
+      "name": "美团企业版",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/meituan-for-business/entry.json"
+    },
+    {
+      "id": "workbuddy/menglar-ozon",
+      "name": "萌啦数据Ozon-选品数据分析",
+      "availability": "candidate",
+      "path": "workbuddy/entries/menglar-ozon/entry.json"
+    },
+    {
+      "id": "workbuddy/meo-xiaoyuan",
+      "name": "出海精灵·小元",
+      "availability": "candidate",
+      "path": "workbuddy/entries/meo-xiaoyuan/entry.json"
+    },
+    {
+      "id": "workbuddy/mergerinfo",
+      "name": "MergerInfo 海外并购情报",
+      "availability": "candidate",
+      "path": "workbuddy/entries/mergerinfo/entry.json"
+    },
+    {
+      "id": "workbuddy/mglc",
+      "name": "芒果灵创 CLI",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/mglc/entry.json"
+    },
+    {
+      "id": "workbuddy/miaoda",
+      "name": "秒哒应用搭建",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/miaoda/entry.json"
+    },
+    {
+      "id": "workbuddy/miki-cursor-catalog",
+      "name": "Miki Cursor 素材库",
+      "availability": "candidate",
+      "path": "workbuddy/entries/miki-cursor-catalog/entry.json"
+    },
+    {
+      "id": "workbuddy/mindbye-contract-review",
+      "name": "明白律师·合同风险审查",
+      "availability": "candidate",
+      "path": "workbuddy/entries/mindbye-contract-review/entry.json"
+    },
+    {
+      "id": "workbuddy/moka",
+      "name": "Moka HR 智能体",
+      "availability": "candidate",
+      "path": "workbuddy/entries/moka/entry.json"
+    },
+    {
+      "id": "workbuddy/morningstar",
+      "name": "晨星 Morningstar",
+      "availability": "candidate",
+      "path": "workbuddy/entries/morningstar/entry.json"
+    },
+    {
+      "id": "workbuddy/mx-ds-mcp",
+      "name": "东方财富妙想MCP",
+      "availability": "candidate",
+      "path": "workbuddy/entries/mx-ds-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/myunker-mcp",
+      "name": "明源云客",
+      "availability": "candidate",
+      "path": "workbuddy/entries/myunker-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/mzl-trademark",
+      "name": "摩知轮商标查询",
+      "availability": "candidate",
+      "path": "workbuddy/entries/mzl-trademark/entry.json"
+    },
+    {
+      "id": "workbuddy/neo-crm",
+      "name": "销售易CRM",
+      "availability": "candidate",
+      "path": "workbuddy/entries/neo-crm/entry.json"
+    },
+    {
+      "id": "workbuddy/neo-eakey",
+      "name": "销售易·易启",
+      "availability": "candidate",
+      "path": "workbuddy/entries/neo-eakey/entry.json"
+    },
+    {
+      "id": "workbuddy/neodata",
+      "name": "NeoData金融数据库",
+      "availability": "candidate",
+      "path": "workbuddy/entries/neodata/entry.json"
+    },
+    {
+      "id": "workbuddy/notion",
+      "name": "Notion",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/notion/entry.json"
+    },
+    {
+      "id": "workbuddy/novai-studio",
+      "name": "NovAI Studio",
+      "availability": "candidate",
+      "path": "workbuddy/entries/novai-studio/entry.json"
+    },
+    {
+      "id": "workbuddy/noxinfluencer-cli",
+      "name": "NoxInfluencer 红人数据与营销运营",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/noxinfluencer-cli/entry.json"
+    },
+    {
+      "id": "workbuddy/nvapp-windows-local",
+      "name": "nvapp-windows-local",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/nvapp-windows-local/entry.json"
+    },
+    {
+      "id": "workbuddy/oiioii",
+      "name": "OiiOii",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/oiioii/entry.json"
+    },
+    {
+      "id": "workbuddy/opcmenu",
+      "name": "独行录",
+      "availability": "candidate",
+      "path": "workbuddy/entries/opcmenu/entry.json"
+    },
+    {
+      "id": "workbuddy/opendata",
+      "name": "及刻智能·时空数据MCP",
+      "availability": "candidate",
+      "path": "workbuddy/entries/opendata/entry.json"
+    },
+    {
+      "id": "workbuddy/orientfutures-mobile-knowledge-base",
+      "name": "东证期货",
+      "availability": "candidate",
+      "path": "workbuddy/entries/orientfutures-mobile-knowledge-base/entry.json"
+    },
+    {
+      "id": "workbuddy/pandadata",
+      "name": "PandaData 金融数据",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/pandadata/entry.json"
+    },
+    {
+      "id": "workbuddy/paper-retrieval",
+      "name": "Repilot科研智能体",
+      "availability": "candidate",
+      "path": "workbuddy/entries/paper-retrieval/entry.json"
+    },
+    {
+      "id": "workbuddy/patsnap-search",
+      "name": "智慧芽专利&文献融合检索",
+      "availability": "candidate",
+      "path": "workbuddy/entries/patsnap-search/entry.json"
+    },
+    {
+      "id": "workbuddy/picset-commerce-images",
+      "name": "Picset AI 电商设计",
+      "availability": "candidate",
+      "path": "workbuddy/entries/picset-commerce-images/entry.json"
+    },
+    {
+      "id": "workbuddy/picset-video-generation",
+      "name": "Picset AI 视频创作",
+      "availability": "candidate",
+      "path": "workbuddy/entries/picset-video-generation/entry.json"
+    },
+    {
+      "id": "workbuddy/pkulaw",
+      "name": "北大法宝·法律智能检索",
+      "availability": "candidate",
+      "path": "workbuddy/entries/pkulaw/entry.json"
+    },
+    {
+      "id": "workbuddy/plaud",
+      "name": "Plaud",
+      "availability": "candidate",
+      "path": "workbuddy/entries/plaud/entry.json"
+    },
+    {
+      "id": "workbuddy/primematrix-company",
+      "name": "质数幻方·企业数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/primematrix-company/entry.json"
+    },
+    {
+      "id": "workbuddy/proboost",
+      "name": "OpenBoost 跨境数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/proboost/entry.json"
+    },
+    {
+      "id": "workbuddy/property-saas",
+      "name": "卓越智慧物业云平台",
+      "availability": "candidate",
+      "path": "workbuddy/entries/property-saas/entry.json"
+    },
+    {
+      "id": "workbuddy/qcc-company",
+      "name": "企查查",
+      "availability": "candidate",
+      "path": "workbuddy/entries/qcc-company/entry.json"
+    },
+    {
+      "id": "workbuddy/qcc-legal",
+      "name": "企查查·法律数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/qcc-legal/entry.json"
+    },
+    {
+      "id": "workbuddy/qibook-mcp",
+      "name": "企百科",
+      "availability": "candidate",
+      "path": "workbuddy/entries/qibook-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/qingflow",
+      "name": "轻流",
+      "availability": "candidate",
+      "path": "workbuddy/entries/qingflow/entry.json"
+    },
+    {
+      "id": "workbuddy/qisemierp",
+      "name": "七色米进销存",
+      "availability": "candidate",
+      "path": "workbuddy/entries/qisemierp/entry.json"
+    },
+    {
+      "id": "workbuddy/qixinhuiyan-mcp",
+      "name": "启信慧眼",
+      "availability": "candidate",
+      "path": "workbuddy/entries/qixinhuiyan-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/qiyuan-robot-executor",
+      "name": "启元机器人执行器",
+      "availability": "candidate",
+      "path": "workbuddy/entries/qiyuan-robot-executor/entry.json"
+    },
+    {
+      "id": "workbuddy/qq-mail",
+      "name": "QQ邮箱",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/qq-mail/entry.json"
+    },
+    {
+      "id": "workbuddy/qveris",
+      "name": "QVeris",
+      "availability": "candidate",
+      "path": "workbuddy/entries/qveris/entry.json"
+    },
+    {
+      "id": "workbuddy/qzd-connector",
+      "name": "企智多",
+      "availability": "candidate",
+      "path": "workbuddy/entries/qzd-connector/entry.json"
+    },
+    {
+      "id": "workbuddy/replygen",
+      "name": "睿答",
+      "availability": "candidate",
+      "path": "workbuddy/entries/replygen/entry.json"
+    },
+    {
+      "id": "workbuddy/reportgem-research",
+      "name": "报告驿站",
+      "availability": "candidate",
+      "path": "workbuddy/entries/reportgem-research/entry.json"
+    },
+    {
+      "id": "workbuddy/salesnail-instructor",
+      "name": "SalesNail AI 销售沙盘",
+      "availability": "candidate",
+      "path": "workbuddy/entries/salesnail-instructor/entry.json"
+    },
+    {
+      "id": "workbuddy/salestouch",
+      "name": "SalesTouch 经营执行",
+      "availability": "candidate",
+      "path": "workbuddy/entries/salestouch/entry.json"
+    },
+    {
+      "id": "workbuddy/seeyon-office-marketing-suite",
+      "name": "致远互联协同办公服务",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/seeyon-office-marketing-suite/entry.json"
+    },
+    {
+      "id": "workbuddy/shanglv-mcp-gateway",
+      "name": "用友智能服务（AI BaaS）",
+      "availability": "candidate",
+      "path": "workbuddy/entries/shanglv-mcp-gateway/entry.json"
+    },
+    {
+      "id": "workbuddy/shangyitong",
+      "name": "VZOOM商易通-企业信息查询",
+      "availability": "candidate",
+      "path": "workbuddy/entries/shangyitong/entry.json"
+    },
+    {
+      "id": "workbuddy/shanlong-claw",
+      "name": "天财商龙餐饮SaaS",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/shanlong-claw/entry.json"
+    },
+    {
+      "id": "workbuddy/sharecrm",
+      "name": "纷享销客CRM",
+      "availability": "candidate",
+      "path": "workbuddy/entries/sharecrm/entry.json"
+    },
+    {
+      "id": "workbuddy/shopee-market-intelligence",
+      "name": "知虾选品数据-Shopee虾皮大数据分析",
+      "availability": "candidate",
+      "path": "workbuddy/entries/shopee-market-intelligence/entry.json"
+    },
+    {
+      "id": "workbuddy/shuidi-credit",
+      "name": "水滴信用-企业尽调",
+      "availability": "candidate",
+      "path": "workbuddy/entries/shuidi-credit/entry.json"
+    },
+    {
+      "id": "workbuddy/shuidi-discovery",
+      "name": "水滴信用-企业发现",
+      "availability": "candidate",
+      "path": "workbuddy/entries/shuidi-discovery/entry.json"
+    },
+    {
+      "id": "workbuddy/shunong-assistant",
+      "name": "数字农人",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/shunong-assistant/entry.json"
+    },
+    {
+      "id": "workbuddy/sif-mcp",
+      "name": "Sif MCP",
+      "availability": "candidate",
+      "path": "workbuddy/entries/sif-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/smartsalary",
+      "name": "eRoad·市场人才薪酬数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/smartsalary/entry.json"
+    },
+    {
+      "id": "workbuddy/sq-company-dynamic",
+      "name": "上奇产业通",
+      "availability": "candidate",
+      "path": "workbuddy/entries/sq-company-dynamic/entry.json"
+    },
+    {
+      "id": "workbuddy/sugon-scinsight-agent",
+      "name": "scnet·科学文献洞察智能体",
+      "availability": "candidate",
+      "path": "workbuddy/entries/sugon-scinsight-agent/entry.json"
+    },
+    {
+      "id": "workbuddy/sumscope-data",
+      "name": "森浦qeubee金融数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/sumscope-data/entry.json"
+    },
+    {
+      "id": "workbuddy/sungo-device-registry",
+      "name": "医疗器械注册查询",
+      "availability": "candidate",
+      "path": "workbuddy/entries/sungo-device-registry/entry.json"
+    },
+    {
+      "id": "workbuddy/syspetro-service-22065846",
+      "name": "辛孚物性库",
+      "availability": "candidate",
+      "path": "workbuddy/entries/syspetro-service-22065846/entry.json"
+    },
+    {
+      "id": "workbuddy/tanyuan-assistant",
+      "name": "腾讯数字文化智能体",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tanyuan-assistant/entry.json"
+    },
+    {
+      "id": "workbuddy/tapd",
+      "name": "TAPD",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/tapd/entry.json"
+    },
+    {
+      "id": "workbuddy/tapd-woa",
+      "name": "TAPD",
+      "availability": "restricted",
+      "path": "workbuddy/entries/tapd-woa/entry.json"
+    },
+    {
+      "id": "workbuddy/tapnow",
+      "name": "TapNow",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tapnow/entry.json"
+    },
+    {
+      "id": "workbuddy/tc-chengxin",
+      "name": "同程程心",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/tc-chengxin/entry.json"
+    },
+    {
+      "id": "workbuddy/tct-business-expert",
+      "name": "NextB2B贸易通MCP",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tct-business-expert/entry.json"
+    },
+    {
+      "id": "workbuddy/tdengine",
+      "name": "TDengine",
+      "availability": "restricted",
+      "path": "workbuddy/entries/tdengine/entry.json"
+    },
+    {
+      "id": "workbuddy/tdx-connector",
+      "name": "通达信",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tdx-connector/entry.json"
+    },
+    {
+      "id": "workbuddy/teacher-assistant",
+      "name": "企鹅教师助手",
+      "availability": "candidate",
+      "path": "workbuddy/entries/teacher-assistant/entry.json"
+    },
+    {
+      "id": "workbuddy/tec-do",
+      "name": "Tec-Do 2.0 广告与增长情报",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tec-do/entry.json"
+    },
+    {
+      "id": "workbuddy/tencent-dlc",
+      "name": "腾讯云数据湖计算 DLC",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tencent-dlc/entry.json"
+    },
+    {
+      "id": "workbuddy/tencent-docs",
+      "name": "腾讯文档",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/tencent-docs/entry.json"
+    },
+    {
+      "id": "workbuddy/tencent-docs-oa",
+      "name": "腾讯文档企业版",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/tencent-docs-oa/entry.json"
+    },
+    {
+      "id": "workbuddy/tencent-health-nges",
+      "name": "腾讯健康NGES",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tencent-health-nges/entry.json"
+    },
+    {
+      "id": "workbuddy/tencent-map",
+      "name": "腾讯地图",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tencent-map/entry.json"
+    },
+    {
+      "id": "workbuddy/tencent-map-guide",
+      "name": "腾讯地图·指南制作",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tencent-map-guide/entry.json"
+    },
+    {
+      "id": "workbuddy/tencent-marketing-solution",
+      "name": "腾讯营销",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tencent-marketing-solution/entry.json"
+    },
+    {
+      "id": "workbuddy/tencent-qidian-cs",
+      "name": "腾讯企点客服",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/tencent-qidian-cs/entry.json"
+    },
+    {
+      "id": "workbuddy/tencent-survey",
+      "name": "腾讯问卷",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tencent-survey/entry.json"
+    },
+    {
+      "id": "workbuddy/tencent-tchouse-c",
+      "name": "腾讯云数据仓库 TCHouse-C",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tencent-tchouse-c/entry.json"
+    },
+    {
+      "id": "workbuddy/tencent-weiyun",
+      "name": "微云",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tencent-weiyun/entry.json"
+    },
+    {
+      "id": "workbuddy/tencent-yaoxiang-bi",
+      "name": "腾讯健康药箱企业数据洞察",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tencent-yaoxiang-bi/entry.json"
+    },
+    {
+      "id": "workbuddy/tencentads",
+      "name": "腾讯营销投放",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/tencentads/entry.json"
+    },
+    {
+      "id": "workbuddy/textin-xparse",
+      "name": "TextIn xParse·智能文档解析",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/textin-xparse/entry.json"
+    },
+    {
+      "id": "workbuddy/thinkingai-ae-cli",
+      "name": "数数科技 ThinkingAI·AgenticEngine",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/thinkingai-ae-cli/entry.json"
+    },
+    {
+      "id": "workbuddy/tiktok",
+      "name": "TikTok for Business",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tiktok/entry.json"
+    },
+    {
+      "id": "workbuddy/tmeet",
+      "name": "腾讯会议",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/tmeet/entry.json"
+    },
+    {
+      "id": "workbuddy/today-watermark-camera",
+      "name": "今日水印相机",
+      "availability": "candidate",
+      "path": "workbuddy/entries/today-watermark-camera/entry.json"
+    },
+    {
+      "id": "workbuddy/tongzhou-fin-research",
+      "name": "同舟金融研究",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tongzhou-fin-research/entry.json"
+    },
+    {
+      "id": "workbuddy/tplus-api",
+      "name": "畅捷通T+",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tplus-api/entry.json"
+    },
+    {
+      "id": "workbuddy/tuniu-travel",
+      "name": "途牛旅行",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/tuniu-travel/entry.json"
+    },
+    {
+      "id": "workbuddy/tushare",
+      "name": "Tushare",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tushare/entry.json"
+    },
+    {
+      "id": "workbuddy/tyc-mcp",
+      "name": "天眼查",
+      "availability": "candidate",
+      "path": "workbuddy/entries/tyc-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/uupt",
+      "name": "UU跑腿",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/uupt/entry.json"
+    },
+    {
+      "id": "workbuddy/variflight-mcp",
+      "name": "飞常准",
+      "availability": "candidate",
+      "path": "workbuddy/entries/variflight-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/verya-knowledgebase",
+      "name": "予非AI知识大脑",
+      "availability": "candidate",
+      "path": "workbuddy/entries/verya-knowledgebase/entry.json"
+    },
+    {
+      "id": "workbuddy/viaim",
+      "name": "viaim",
+      "availability": "candidate",
+      "path": "workbuddy/entries/viaim/entry.json"
+    },
+    {
+      "id": "workbuddy/vibeknow-cli",
+      "name": "VibeKnow CLI",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/vibeknow-cli/entry.json"
+    },
+    {
+      "id": "workbuddy/wangxiaobao",
+      "name": "旺小宝",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/wangxiaobao/entry.json"
+    },
+    {
+      "id": "workbuddy/wavenote-audio",
+      "name": "WaveNote",
+      "availability": "needs-review",
+      "path": "workbuddy/entries/wavenote-audio/entry.json"
+    },
+    {
+      "id": "workbuddy/wecom",
+      "name": "企业微信",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/wecom/entry.json"
+    },
+    {
+      "id": "workbuddy/weisheng-scrm",
+      "name": "微盛企微管家SCRM",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/weisheng-scrm/entry.json"
+    },
+    {
+      "id": "workbuddy/welife-ai-workbench-connector",
+      "name": "微生活 AI 工作台",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/welife-ai-workbench-connector/entry.json"
+    },
+    {
+      "id": "workbuddy/westock-mcp",
+      "name": "腾讯自选股",
+      "availability": "candidate",
+      "path": "workbuddy/entries/westock-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/wind-finance",
+      "name": "Wind Alice 万得金融数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/wind-finance/entry.json"
+    },
+    {
+      "id": "workbuddy/wisenote",
+      "name": "百智WiseNote",
+      "availability": "candidate",
+      "path": "workbuddy/entries/wisenote/entry.json"
+    },
+    {
+      "id": "workbuddy/wk-workbuddy",
+      "name": "威科先行",
+      "availability": "candidate",
+      "path": "workbuddy/entries/wk-workbuddy/entry.json"
+    },
+    {
+      "id": "workbuddy/wm-weight-manage",
+      "name": "微脉体重管理",
+      "availability": "candidate",
+      "path": "workbuddy/entries/wm-weight-manage/entry.json"
+    },
+    {
+      "id": "workbuddy/workrally1",
+      "name": "WorkRally",
+      "availability": "candidate",
+      "path": "workbuddy/entries/workrally1/entry.json"
+    },
+    {
+      "id": "workbuddy/woscli",
+      "name": "微盟 WOS CLI",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/woscli/entry.json"
+    },
+    {
+      "id": "workbuddy/wps-knowledgebase",
+      "name": "WPS知识库",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/wps-knowledgebase/entry.json"
+    },
+    {
+      "id": "workbuddy/wscnmcp-token",
+      "name": "华尔街见闻",
+      "availability": "candidate",
+      "path": "workbuddy/entries/wscnmcp-token/entry.json"
+    },
+    {
+      "id": "workbuddy/xhcj-mcp-announcements-news-policy",
+      "name": "新华财经资讯MCP",
+      "availability": "candidate",
+      "path": "workbuddy/entries/xhcj-mcp-announcements-news-policy/entry.json"
+    },
+    {
+      "id": "workbuddy/xiaoe-cloud-cli",
+      "name": "小鹅通",
+      "availability": "candidate",
+      "path": "workbuddy/entries/xiaoe-cloud-cli/entry.json"
+    },
+    {
+      "id": "workbuddy/xiaolv-law-search",
+      "name": "小律同学 AI 法律检索",
+      "availability": "candidate",
+      "path": "workbuddy/entries/xiaolv-law-search/entry.json"
+    },
+    {
+      "id": "workbuddy/xiehui-fr",
+      "name": "法国协会网",
+      "availability": "candidate",
+      "path": "workbuddy/entries/xiehui-fr/entry.json"
+    },
+    {
+      "id": "workbuddy/xingtu-claw-risk",
+      "name": "天创信用星图MCP",
+      "availability": "candidate",
+      "path": "workbuddy/entries/xingtu-claw-risk/entry.json"
+    },
+    {
+      "id": "workbuddy/xinke-laile-analytics-enterprise",
+      "name": "新客来了数据分析企业版",
+      "availability": "candidate",
+      "path": "workbuddy/entries/xinke-laile-analytics-enterprise/entry.json"
+    },
+    {
+      "id": "workbuddy/xmed-figure-mcp",
+      "name": "迪安智能科研云",
+      "availability": "candidate",
+      "path": "workbuddy/entries/xmed-figure-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/xmind",
+      "name": "Xmind思维导图",
+      "availability": "candidate",
+      "path": "workbuddy/entries/xmind/entry.json"
+    },
+    {
+      "id": "workbuddy/xrxs",
+      "name": "薪人薪事",
+      "availability": "candidate",
+      "path": "workbuddy/entries/xrxs/entry.json"
+    },
+    {
+      "id": "workbuddy/yichayun-trade-data",
+      "name": "易查云贸易数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/yichayun-trade-data/entry.json"
+    },
+    {
+      "id": "workbuddy/yingmi-mcp",
+      "name": "盈米基金",
+      "availability": "candidate",
+      "path": "workbuddy/entries/yingmi-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/youshu-bd-mate",
+      "name": "智客AI · 对公(To B)营销助手",
+      "availability": "candidate",
+      "path": "workbuddy/entries/youshu-bd-mate/entry.json"
+    },
+    {
+      "id": "workbuddy/yuandian-mcp",
+      "name": "华宇元典法律数据",
+      "availability": "candidate",
+      "path": "workbuddy/entries/yuandian-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/yunke-cli",
+      "name": "云客AI工作手机",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/yunke-cli/entry.json"
+    },
+    {
+      "id": "workbuddy/yuntu-ft-workbench",
+      "name": "云图外贸工作台",
+      "availability": "candidate",
+      "path": "workbuddy/entries/yuntu-ft-workbench/entry.json"
+    },
+    {
+      "id": "workbuddy/yunzhi-mcp",
+      "name": "云指建站MCP服务",
+      "availability": "candidate",
+      "path": "workbuddy/entries/yunzhi-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/yzf-general-mcp-server",
+      "name": "云帐房",
+      "availability": "candidate",
+      "path": "workbuddy/entries/yzf-general-mcp-server/entry.json"
+    },
+    {
+      "id": "workbuddy/zfs-fssc-ai",
+      "name": "中兴新云AI智报",
+      "availability": "candidate",
+      "path": "workbuddy/entries/zfs-fssc-ai/entry.json"
+    },
+    {
+      "id": "workbuddy/zhangsanfeng",
+      "name": "账三丰",
+      "availability": "candidate",
+      "path": "workbuddy/entries/zhangsanfeng/entry.json"
+    },
+    {
+      "id": "workbuddy/zhiyan-cicd",
+      "name": "织云 CICD",
+      "availability": "restricted",
+      "path": "workbuddy/entries/zhiyan-cicd/entry.json"
+    },
+    {
+      "id": "workbuddy/zsxq",
+      "name": "知识星球",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/zsxq/entry.json"
+    },
+    {
+      "id": "workbuddy/zw3d-mcp",
+      "name": "中望3D MCP",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/zw3d-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/zwcad-mcp",
+      "name": "中望CAD MCP",
+      "availability": "not-mcp",
+      "path": "workbuddy/entries/zwcad-mcp/entry.json"
+    },
+    {
+      "id": "workbuddy/zxygj-business-data",
+      "name": "装修云管家",
+      "availability": "candidate",
+      "path": "workbuddy/entries/zxygj-business-data/entry.json"
+    }
+  ]
+}

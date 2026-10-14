@@ -1,0 +1,239 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "mcp-mp entry",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "slug",
+    "harness",
+    "name",
+    "description",
+    "kind",
+    "source_repository",
+    "source_status",
+    "provenance",
+    "connection",
+    "parameters",
+    "auth",
+    "availability",
+    "reason",
+    "verification"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+/[a-z0-9-]+$"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "harness": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "kind": {
+      "type": "string"
+    },
+    "source_status": {
+      "type": "string"
+    },
+    "reason": {
+      "type": "string"
+    },
+    "source_repository": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "provenance": {
+      "type": "object",
+      "required": [
+        "source",
+        "snapshot_date",
+        "definition"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "source": {
+          "type": "string"
+        },
+        "snapshot_date": {
+          "type": "string"
+        },
+        "definition": {
+          "type": "string"
+        },
+        "inventory_sha256": {
+          "type": "string"
+        }
+      }
+    },
+    "connection": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "transport"
+          ],
+          "properties": {
+            "transport": {
+              "enum": [
+                "stdio",
+                "streamable-http",
+                "sse"
+              ]
+            },
+            "url": {
+              "type": "string"
+            },
+            "headers": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "string"
+              }
+            },
+            "command": {
+              "type": "string"
+            },
+            "args": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "env": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "string"
+              }
+            }
+          },
+          "allOf": [
+            {
+              "if": {
+                "properties": {
+                  "transport": {
+                    "const": "stdio"
+                  }
+                }
+              },
+              "then": {
+                "required": [
+                  "command",
+                  "args"
+                ]
+              },
+              "else": {
+                "required": [
+                  "url",
+                  "headers"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "parameters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "location",
+          "key",
+          "required",
+          "description"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "pattern": "^[A-Z][A-Z0-9_]*$"
+          },
+          "location": {
+            "enum": [
+              "query",
+              "header",
+              "env",
+              "argument"
+            ]
+          },
+          "key": {
+            "type": "string"
+          },
+          "required": {
+            "type": "boolean"
+          },
+          "description": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "auth": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mode",
+        "instructions"
+      ],
+      "properties": {
+        "mode": {
+          "type": "string"
+        },
+        "instructions": {
+          "type": "string"
+        }
+      }
+    },
+    "availability": {
+      "enum": [
+        "candidate",
+        "not-mcp",
+        "needs-review",
+        "restricted"
+      ]
+    },
+    "verification": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "structure",
+        "protocol",
+        "business"
+      ],
+      "properties": {
+        "structure": {
+          "enum": [
+            "pending",
+            "passed"
+          ]
+        },
+        "protocol": {
+          "enum": [
+            "not-tested",
+            "passed",
+            "failed",
+            "needs-auth",
+            "skipped"
+          ]
+        },
+        "business": {
+          "const": "not-tested"
+        }
+      }
+    }
+  }
+}

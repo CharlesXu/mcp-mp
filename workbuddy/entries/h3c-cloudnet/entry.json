@@ -1,0 +1,43 @@
+{
+  "id": "workbuddy/h3c-cloudnet",
+  "slug": "h3c-cloudnet",
+  "harness": "workbuddy",
+  "name": "新华三Cloudnet灵犀AI助手",
+  "description": "面向网络运维场景的 AI 助手，支持网络运行状态查询、网络问题分析、设备/AP 信息查询和无线终端故障排查，帮助用户快速定位网络异常并获取处理建",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "sse",
+    "url": "https://oasis.h3c.com/mcp-server/api/sse",
+    "headers": {
+      "Authorization": "${WB_H3C_CLOUDNET_HEADER_AUTHORIZATION}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_H3C_CLOUDNET_HEADER_AUTHORIZATION",
+      "location": "header",
+      "key": "Authorization",
+      "required": true,
+      "description": "填写完整 Authorization 头值，包含 Bearer 前缀（若服务商要求）。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

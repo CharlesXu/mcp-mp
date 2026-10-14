@@ -1,0 +1,59 @@
+{
+  "id": "workbuddy/magic-agent-token",
+  "slug": "magic-agent-token",
+  "harness": "workbuddy",
+  "name": "腾讯企点营销云",
+  "description": "在 WorkBuddy 中使用腾讯企点营销云：营销数据查询与分析、企微私域运营（企微营销虾 / 企微互动智能助手）——业绩与排行、客户与客户群、",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://tmc.qidian.qq.com/magic-agent/mcp",
+    "headers": {
+      "Authorization": "${WB_MAGIC_AGENT_TOKEN_HEADER_AUTHORIZATION}",
+      "X-Biz-Id": "${WB_MAGIC_AGENT_TOKEN_HEADER_X_BIZ_ID}",
+      "X-Magic-MCP-Profile": "${WB_MAGIC_AGENT_TOKEN_HEADER_X_MAGIC_MCP_PROFILE}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_MAGIC_AGENT_TOKEN_HEADER_AUTHORIZATION",
+      "location": "header",
+      "key": "Authorization",
+      "required": true,
+      "description": "填写完整 Authorization 头值，包含 Bearer 前缀（若服务商要求）。"
+    },
+    {
+      "name": "WB_MAGIC_AGENT_TOKEN_HEADER_X_BIZ_ID",
+      "location": "header",
+      "key": "X-Biz-Id",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    },
+    {
+      "name": "WB_MAGIC_AGENT_TOKEN_HEADER_X_MAGIC_MCP_PROFILE",
+      "location": "header",
+      "key": "X-Magic-MCP-Profile",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

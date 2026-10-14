@@ -1,0 +1,51 @@
+{
+  "id": "workbuddy/caihui-mcp",
+  "slug": "caihui-mcp",
+  "harness": "workbuddy",
+  "name": "财汇金融与风险数据",
+  "description": "财汇 MCP 提供专业金融与风险数据服务，覆盖境内企业工商、上市公司、债券、基金、金融机构、宏观与区域经济、监管与司法风险、新闻公告及法规等多维",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://mcp.finchina.com/finchina-data-mcp-server/mcp",
+    "headers": {
+      "client": "${WB_CAIHUI_MCP_HEADER_CLIENT}",
+      "x-api-key": "${WB_CAIHUI_MCP_HEADER_X_API_KEY}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_CAIHUI_MCP_HEADER_CLIENT",
+      "location": "header",
+      "key": "client",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    },
+    {
+      "name": "WB_CAIHUI_MCP_HEADER_X_API_KEY",
+      "location": "header",
+      "key": "x-api-key",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

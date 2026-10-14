@@ -1,0 +1,41 @@
+{
+  "id": "workbuddy/syspetro-service-22065846",
+  "slug": "syspetro-service-22065846",
+  "harness": "workbuddy",
+  "name": "辛孚物性库",
+  "description": "提供炼油、化工、制药等方向的分子物性数据，以及混合物物性数据，便于用户进行工程化设计和计算，也可用于高校教育",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "sse",
+    "url": "https://marketplace.syspetro.com/syspetro-mcp-marketplace/mcp/service_22065846?authkey=${WB_SYSPETRO_SERVICE_22065846_QUERY_AUTHKEY}",
+    "headers": {}
+  },
+  "parameters": [
+    {
+      "name": "WB_SYSPETRO_SERVICE_22065846_QUERY_AUTHKEY",
+      "location": "query",
+      "key": "authkey",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

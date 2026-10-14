@@ -1,0 +1,75 @@
+{
+  "id": "workbuddy/fbs-connector",
+  "slug": "fbs-connector",
+  "harness": "workbuddy",
+  "name": "福帮手",
+  "description": "福帮手连接器：保留身份、场景、进度和乐包；在当前授权与用途允许时确认账号、读取或提交待确认画像",
+  "kind": "远程 MCP",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "marketplace-mcp-json",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": {
+    "transport": "streamable-http",
+    "url": "https://api2.u3w.com/fbs-mcp/mcp",
+    "headers": {
+      "X-FBS-Connector-Source": "${WB_FBS_CONNECTOR_HEADER_X_FBS_CONNECTOR_SOURCE}",
+      "X-FBS-Connector-Id": "${WB_FBS_CONNECTOR_HEADER_X_FBS_CONNECTOR_ID}",
+      "X-FBS-Connector-Version": "${WB_FBS_CONNECTOR_HEADER_X_FBS_CONNECTOR_VERSION}",
+      "X-FBS-Connector-Package-Version": "${WB_FBS_CONNECTOR_HEADER_X_FBS_CONNECTOR_PACKAGE_VERSION}",
+      "X-Request-Source": "${WB_FBS_CONNECTOR_HEADER_X_REQUEST_SOURCE}"
+    }
+  },
+  "parameters": [
+    {
+      "name": "WB_FBS_CONNECTOR_HEADER_X_FBS_CONNECTOR_SOURCE",
+      "location": "header",
+      "key": "X-FBS-Connector-Source",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    },
+    {
+      "name": "WB_FBS_CONNECTOR_HEADER_X_FBS_CONNECTOR_ID",
+      "location": "header",
+      "key": "X-FBS-Connector-Id",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    },
+    {
+      "name": "WB_FBS_CONNECTOR_HEADER_X_FBS_CONNECTOR_VERSION",
+      "location": "header",
+      "key": "X-FBS-Connector-Version",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    },
+    {
+      "name": "WB_FBS_CONNECTOR_HEADER_X_FBS_CONNECTOR_PACKAGE_VERSION",
+      "location": "header",
+      "key": "X-FBS-Connector-Package-Version",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    },
+    {
+      "name": "WB_FBS_CONNECTOR_HEADER_X_REQUEST_SOURCE",
+      "location": "header",
+      "key": "X-Request-Source",
+      "required": true,
+      "description": "从服务商独立获取并填写；不复用 WorkBuddy 私有凭据。"
+    }
+  ],
+  "auth": {
+    "mode": "parameters-required",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "candidate",
+  "reason": "来源配置已归一化；须独立验证协议、认证和客户端兼容性。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

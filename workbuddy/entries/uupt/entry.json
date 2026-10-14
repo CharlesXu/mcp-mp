@@ -1,0 +1,29 @@
+{
+  "id": "workbuddy/uupt",
+  "slug": "uupt",
+  "harness": "workbuddy",
+  "name": "UU跑腿",
+  "description": "通过自然语言使用 UU跑腿：同城配送与帮帮服务，支持询价、下单、查单、取消、跑男追踪和领取优惠券",
+  "kind": "本地 CLI (脚本安装)",
+  "source_repository": null,
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "inventory-only",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": null,
+  "parameters": [],
+  "auth": {
+    "mode": "unknown",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "not-mcp",
+  "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}

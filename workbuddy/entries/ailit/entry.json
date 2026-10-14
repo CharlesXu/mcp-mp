@@ -1,0 +1,29 @@
+{
+  "id": "workbuddy/ailit",
+  "slug": "ailit",
+  "harness": "workbuddy",
+  "name": "智慧记AI进销存",
+  "description": "结合您的进销存业务数据，可实现成批量对账、销售开单和批量创建商品，覆盖销售、采购、库存、收银、对账及经营分析等多种业务场景",
+  "kind": "本地 CLI (npm)",
+  "source_repository": "https://github.com/co-ailit/ailit-cli",
+  "source_status": "reported-not-independently-verified",
+  "provenance": {
+    "source": "workbuddy-connector-inventory",
+    "snapshot_date": "2026-10-14",
+    "definition": "inventory-only",
+    "inventory_sha256": "ddcb3fdee6690a2df9488621ff475f800575741ba8bb9acecfb86792ecea7c08"
+  },
+  "connection": null,
+  "parameters": [],
+  "auth": {
+    "mode": "unknown",
+    "instructions": "需查阅服务商文档，独立申请凭据或完成 OAuth；未验证跨客户端授权。"
+  },
+  "availability": "not-mcp",
+  "reason": "原清单标为 CLI 或 Skill；未证实其提供 MCP 协议。",
+  "verification": {
+    "structure": "pending",
+    "protocol": "not-tested",
+    "business": "not-tested"
+  }
+}
