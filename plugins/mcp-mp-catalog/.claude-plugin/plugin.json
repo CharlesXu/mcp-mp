@@ -1,0 +1,16 @@
+{
+  "name": "mcp-mp-catalog",
+  "version": "0.1.0",
+  "description": "只读 MCP 目录、接入条件与客户端配置模板；不自动安装下游服务。",
+  "author": {
+    "name": "CharlesXu"
+  },
+  "homepage": "https://github.com/CharlesXu/mcp-mp",
+  "repository": "https://github.com/CharlesXu/mcp-mp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "catalog",
+    "marketplace"
+  ]
+}

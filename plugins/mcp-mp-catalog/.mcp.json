@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "mcp-mp-catalog": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--frozen",
+        "--directory",
+        "${CLAUDE_PLUGIN_ROOT}",
+        "python",
+        "${CLAUDE_PLUGIN_ROOT}/server.py"
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "mcp-mp",
+  "owner": {
+    "name": "CharlesXu"
+  },
+  "metadata": {
+    "description": "跨 harness MCP 目录与配置适配"
+  },
+  "plugins": [
+    {
+      "name": "mcp-mp-catalog",
+      "source": "./plugins/mcp-mp-catalog",
+      "description": "只读 MCP 目录、接入条件与客户端配置模板；不自动安装下游服务。",
+      "version": "0.1.0"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "checked_at": "2026-10-14T01:52:17.690381+00:00",
+  "source": "local",
+  "checks": [
+    {
+      "client": "codex",
+      "version": "codex-cli 0.162.1",
+      "marketplace_discovery": "passed",
+      "plugin_install_readback": "passed",
+      "installed_launcher_sdk_handshake": "passed",
+      "installed_search": "passed",
+      "protocol_version": "2026-07-28",
+      "scope": "native CLI install plus SDK transport; no model session or business tool invocation"
+    },
+    {
+      "client": "claude",
+      "version": "2.1.251 (Claude Code)",
+      "marketplace_discovery": "passed",
+      "plugin_install_readback": "passed",
+      "installed_launcher_sdk_handshake": "passed",
+      "installed_search": "passed",
+      "protocol_version": "2026-07-28",
+      "scope": "native CLI install plus SDK transport; no model session or business tool invocation"
+    }
+  ],
+  "cherry": {
+    "status": "configuration-only",
+    "desktop_ui": "not-tested"
+  }
+}

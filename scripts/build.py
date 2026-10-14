@@ -43,6 +43,8 @@ def outputs(root: Path) -> dict[Path, str]:
          'path': f"{e['harness']}/entries/{e['slug']}/entry.json"} for e in entries]}
     result[root / 'catalog/index.json'] = encode(index)
     result[root / 'plugins/mcp-mp-catalog/catalog.json'] = encode(entries)
+    report = root / 'reports/verification.json'
+    result[root / 'plugins/mcp-mp-catalog/verification.json'] = encode(json.loads(report.read_text()) if report.exists() else {'checks': []})
     return result
 
 

@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "mcp-mp-catalog": {
+      "cwd": ".",
+      "command": "uv",
+      "args": [
+        "run",
+        "--frozen",
+        "--directory",
+        ".",
+        "python",
+        "server.py"
+      ]
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "scope": "credential-free protocol only; no business tools called",
+  "checks": [
+    {
+      "id": "workbuddy/24haowan",
+      "checked_at": "2026-10-14T01:52:12.051124+00:00",
+      "transport": "streamable-http",
+      "protocol": "skipped",
+      "initialize": "not-tested",
+      "tools_list": "not-tested",
+      "tool_count": null,
+      "business": "not-tested",
+      "error_category": "network-policy-blocked",
+      "history": [
+        {
+          "id": "workbuddy/24haowan",
+          "checked_at": "2026-10-14T01:50:49.791484+00:00",
+          "transport": "streamable-http",
+          "protocol": "failed",
+          "initialize": "not-tested",
+          "tools_list": "not-tested",
+          "tool_count": null,
+          "business": "not-tested",
+          "error_category": "protocol-or-network-error"
+        }
+      ]
+    },
+    {
+      "id": "workbuddy/aiclass-teaching",
+      "checked_at": "2026-10-14T01:52:12.051315+00:00",
+      "transport": "streamable-http",
+      "protocol": "skipped",
+      "initialize": "not-tested",
+      "tools_list": "not-tested",
+      "tool_count": null,
+      "business": "not-tested",
+      "error_category": "network-policy-blocked",
+      "history": [
+        {
+          "id": "workbuddy/aiclass-teaching",
+          "checked_at": "2026-10-14T01:50:49.791570+00:00",
+          "transport": "streamable-http",
+          "protocol": "failed",
+          "initialize": "not-tested",
+          "tools_list": "not-tested",
+          "tool_count": null,
+          "business": "not-tested",
+          "error_category": "protocol-or-network-error"
+        }
+      ]
+    },
+    {
+      "id": "workbuddy/baidu-netdisk",
+      "checked_at": "2026-10-14T01:52:12.047737+00:00",
+      "transport": "sse",
+      "protocol": "skipped",
+      "initialize": "not-tested",
+      "tools_list": "not-tested",
+      "tool_count": null,
+      "business": "not-tested",
+      "error_category": "network-policy-blocked",
+      "history": [
+        {
+          "id": "workbuddy/baidu-netdisk",
+          "checked_at": "2026-10-14T01:50:49.786566+00:00",
+          "transport": "sse",
+          "protocol": "failed",
+          "initialize": "not-tested",
+          "tools_list": "not-tested",
+          "tool_count": null,
+          "business": "not-tested",
+          "error_category": "protocol-or-network-error"
+        }
+      ]
+    },
+    {
+      "id": "workbuddy/qcc-company",
+      "checked_at": "2026-10-14T01:52:12.051009+00:00",
+      "transport": "streamable-http",
+      "protocol": "skipped",
+      "initialize": "not-tested",
+      "tools_list": "not-tested",
+      "tool_count": null,
+      "business": "not-tested",
+      "error_category": "network-policy-blocked",
+      "history": [
+        {
+          "id": "workbuddy/qcc-company",
+          "checked_at": "2026-10-14T01:50:49.791332+00:00",
+          "transport": "streamable-http",
+          "protocol": "failed",
+          "initialize": "not-tested",
+          "tools_list": "not-tested",
+          "tool_count": null,
+          "business": "not-tested",
+          "error_category": "protocol-or-network-error"
+        }
+      ]
+    }
+  ]
+}
