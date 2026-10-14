@@ -1,0 +1,29 @@
+{
+  "checked_date": "2026-10-14",
+  "references": [
+    {
+      "repository": "Kilo-Org/kilo-marketplace",
+      "commit": "ff51758b06b8249007116184096765d47bdb7505",
+      "license": "Apache-2.0",
+      "scope": "architectural/config reference; no upstream code copied"
+    },
+    {
+      "repository": "CherryHQ/mcpmarket",
+      "commit": "b26c0cc1b7633337571d7c9d311446566496b3f9",
+      "license": "MIT",
+      "scope": "architectural/config reference; no upstream code copied"
+    },
+    {
+      "repository": "xpack-ai/XPack-MCP-Marketplace",
+      "commit": "f2b61bae7daafdc02333a9c9b309fcb0037abb6a",
+      "license": "Apache-2.0",
+      "scope": "architectural/config reference; no upstream code copied"
+    },
+    {
+      "repository": "CherryHQ/cherry-studio",
+      "commit": "3eda70ca162272c334b595bd1a5a78da3706bd06",
+      "license": "AGPL-3.0",
+      "scope": "architectural/config reference; no upstream code copied"
+    }
+  ]
+}
